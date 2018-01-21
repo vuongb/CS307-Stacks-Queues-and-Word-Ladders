@@ -1,0 +1,27 @@
+questions.txt
+
+Answer the following questions for assignment 10.
+
+
+Use your WordLadderFinder and the fives.txt file to check for ladders with the following starting and ending words. Use both methods for each set of words. Use the Stopwatch class to record the time it takes to find a ladder.
+
+starting word	ending word
+smart		brain
+devil		angel
+money 		greed
+quiet		noise
+quiet		quite
+trees		angel
+xerox		zilch
+zebra		lions
+cools		heats
+blast		mends
+total		blank
+lives		death
+smile		frown
+
+For each pair and each method (linear search for words one letter different and binary search for words one letter different) state the time it took to find the ladder or to prove no ladder existed and the length of the resulting ladder. If a ladder actual exists list the ladder
+
+In general is breadth first with linear search faster or breadth first with binary search faster?
+
+At what size word list do you think breadth first with binary search would be faster than breadth first with linear?

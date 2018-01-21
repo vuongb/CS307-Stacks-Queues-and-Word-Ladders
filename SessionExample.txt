@@ -1,0 +1,207 @@
+Enter 1 to run test harness, 2 to run interactive word ladder sessions: 2
+
+Opening a file chooser window to choose the file with the word list.
+You may have to minimize other windows to see the file chooser window
+
+
+Enter choice for method of finding next ladder.
+Enter 1 to find a ladder using the breadth first method
+Enter 2 to find a ladder using the breadth first method with a binary search
+Enter 3 to find a ladder using the depth first method
+Enter any other character to quit.
+Enter choice: 1
+
+Enter the starting word for the ladder: smart
+
+Enter the ending word for the ladder: brain
+
+Process time to find ladder or prove none exists: elapsed time: 1.052 seconds.
+Found a ladder of length 9 between smart and brain.
+
+Do you want to display the ladder? Enter Y for yes, anything else for noy
+
+Complete ladder:
+
+smart
+scart
+scant
+slant
+plant
+plait
+plain
+blain
+brain
+
+Enter choice for method of finding next ladder.
+Enter 1 to find a ladder using the breadth first method
+Enter 2 to find a ladder using the breadth first method with a binary search
+Enter 3 to find a ladder using the depth first method
+Enter any other character to quit.
+Enter choice: 1
+
+Enter the starting word for the ladder: brain
+
+Enter the ending word for the ladder: dummy
+
+Process time to find ladder or prove none exists: elapsed time: 3.014 seconds.
+Found a ladder of length 12 between brain and dummy.
+
+Do you want to display the ladder? Enter Y for yes, anything else for noy
+
+Complete ladder:
+
+brain
+blain
+blawn
+blaws
+blams
+beams
+berms
+germs
+germy
+gemmy
+gummy
+dummy
+
+Enter choice for method of finding next ladder.
+Enter 1 to find a ladder using the breadth first method
+Enter 2 to find a ladder using the breadth first method with a binary search
+Enter 3 to find a ladder using the depth first method
+Enter any other character to quit.
+Enter choice: 1
+
+Enter the starting word for the ladder: lions
+
+Enter the ending word for the ladder: bears
+
+Process time to find ladder or prove none exists: elapsed time: 0.38 seconds.
+Found a ladder of length 6 between lions and bears.
+
+Do you want to display the ladder? Enter Y for yes, anything else for noy
+
+Complete ladder:
+
+lions
+liens
+liers
+biers
+beers
+bears
+
+Enter choice for method of finding next ladder.
+Enter 1 to find a ladder using the breadth first method
+Enter 2 to find a ladder using the breadth first method with a binary search
+Enter 3 to find a ladder using the depth first method
+Enter any other character to quit.
+Enter choice: 2
+
+Enter the starting word for the ladder: googl
+
+Enter the ending word for the ladder: hells
+
+Process time to find ladder or prove none exists: elapsed time: 0.0 seconds.
+No ladder exists between googl and hells.
+
+Enter choice for method of finding next ladder.
+Enter 1 to find a ladder using the breadth first method
+Enter 2 to find a ladder using the breadth first method with a binary search
+Enter 3 to find a ladder using the depth first method
+Enter any other character to quit.
+Enter choice: 1
+
+Enter the starting word for the ladder: tiger
+
+Enter the ending word for the ladder: kitty
+
+Process time to find ladder or prove none exists: elapsed time: 1.171 seconds.
+Found a ladder of length 7 between tiger and kitty.
+
+Do you want to display the ladder? Enter Y for yes, anything else for noy
+
+Complete ladder:
+
+tiger
+tiler
+tiles
+tilts
+kilts
+kilty
+kitty
+
+Enter choice for method of finding next ladder.
+Enter 1 to find a ladder using the breadth first method
+Enter 2 to find a ladder using the breadth first method with a binary search
+Enter 3 to find a ladder using the depth first method
+Enter any other character to quit.
+Enter choice: 1
+
+Enter the starting word for the ladder: goofy
+
+Enter the ending word for the ladder: deers
+
+Process time to find ladder or prove none exists: elapsed time: 0.812 seconds.
+Found a ladder of length 8 between goofy and deers.
+
+Do you want to display the ladder? Enter Y for yes, anything else for noy
+
+Complete ladder:
+
+goofy
+goody
+goods
+foods
+feods
+feeds
+deeds
+deers
+
+Enter choice for method of finding next ladder.
+Enter 1 to find a ladder using the breadth first method
+Enter 2 to find a ladder using the breadth first method with a binary search
+Enter 3 to find a ladder using the depth first method
+Enter any other character to quit.
+Enter choice: 1
+
+Enter the starting word for the ladder: jambf
+
+Enter the ending word for the ladder: manly
+
+Process time to find ladder or prove none exists: elapsed time: 1.392 seconds.
+Found a ladder of length 9 between jambf and manly.
+
+Do you want to display the ladder? Enter Y for yes, anything else for noy
+
+Complete ladder:
+
+jambf
+jambs
+gambs
+games
+wames
+wanes
+waney
+wanly
+manly
+
+Enter choice for method of finding next ladder.
+Enter 1 to find a ladder using the breadth first method
+Enter 2 to find a ladder using the breadth first method with a binary search
+Enter 3 to find a ladder using the depth first method
+Enter any other character to quit.
+Enter choice: 1
+
+Enter the starting word for the ladder: abcde
+
+Enter the ending word for the ladder: lmnop
+
+Process time to find ladder or prove none exists: elapsed time: 3.585 seconds.
+No ladder exists between abcde and lmnop.
+
+Enter choice for method of finding next ladder.
+Enter 1 to find a ladder using the breadth first method
+Enter 2 to find a ladder using the breadth first method with a binary search
+Enter 3 to find a ladder using the depth first method
+Enter any other character to quit.
+Enter choice: f
+
+Ending session
